@@ -22,3 +22,8 @@ function fetchIssues() {
                                 '</div>';
     }
 }
+
+function saveIssue(e) {
+    var issueId = chance.guid();
+    
+}
